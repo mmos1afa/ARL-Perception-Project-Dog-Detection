@@ -1,0 +1,17 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*$py.class
+.ipynb_checkpoints/
+
+# Raw dataset and labels (keep out of git)
+raw_data/
+filtered_raw_data/
+dataset/
+*.cache
+
+# Heavy training runs and weights
+runs/
+weights/
+*.pt
+*.zip
