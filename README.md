@@ -1,1 +1,0 @@
-# ARL-Perception-Project-Dog-Detection
